@@ -1,3 +1,9 @@
+body {
+  width:1000px;
+  margin-top: 300px;
+  background-color:#2f869c;
+}
+
 h1 {
   color: #CEF0D4;
   font-family: 'Rouge Script', cursive;
