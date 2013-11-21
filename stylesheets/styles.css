@@ -1,9 +1,9 @@
 body {
   width:1000px;
+  margin: auto;
   margin-top: 300px;
   background-color:#2f869c;
   text-align: center;
-  align: center;
 }
 
 h1 {
